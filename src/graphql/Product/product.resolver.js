@@ -4,7 +4,7 @@ const {
     getProuctById,
     addNewProductById,
     addReviewToProductById
- } = require('./product.model')
+ } = require('./product.model');
 
 module.exports = {
     Query:{
